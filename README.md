@@ -7,7 +7,7 @@
 - 참여자: Jaey(스터디장), 장형기, 안준모, 김경찬, 전현우 
 
 ## 스터디 진행 방법 / Repository 사용법:
-- 
+- OpenCV 4.1.0 과 Visual Studio Community 2019 를 사용해서 사용법을 익힙니다.
 
 
 ## 스터디 진도표
@@ -34,3 +34,5 @@
   - 마음껏 질문과 의견을 나누어주세요.
 ```
 ## 유용한 링크 모음
+- https://opencv.org/releases/ (OpenCV Releases)
+- https://visualstudio.microsoft.com/vs/?rr=https%3A%2F%2Fwww.google.com%2F (Visual Studio 2019)
