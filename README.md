@@ -1,6 +1,6 @@
 # AI Robotics KR - OpenCV 스터디 Repository
 
-![image_link](https://github.com/ai-robotics-kr/opencv_study/blob/master/files/OpenCV_Logo_with_text.png?raw=true)
+![image_link](https://github.com/ai-robotics-kr/opencv_study/blob/master/files/OpenCV_Logo_with_text.png?raw=true){:height="50%" width="50%"}
 ## 스터디 소개:
 - 목적: Jaey님의 강의자료를 기반으로 C++ 환경에서 OpenCV4를 사용하는 방법을 익히고, 사이드 프로젝트를 진행하기.
 - 기간: 2019년 7월 ~ 2019년 12월
