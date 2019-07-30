@@ -15,3 +15,8 @@
 - 하드웨어 구성 : 라즈베리파이4, 카메라모듈, 스피커폰사용 
 - DB Server 카메라 모듈에서 검출된 사진 저장. (구축 고려)
 - 안드로이드 : Googel WebRTC API 를 사용하여 영상확인. Toast.makeText, Vibrator 등의 알림 메세지 사용
+
+## 김도훈
+- RGBD 카메라와 SLAM을 이용
+- 임베디드 보드에 camera 모듈을 설치하고 맵핑 결과를 휴대폰에서 확인하는 어플리케이션
+- 실내 네비게이션 또는 실내 3D reconstruction이 목표
