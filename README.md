@@ -5,6 +5,7 @@
 - 목적: Jaey님의 강의자료를 기반으로 C++ 환경에서 OpenCV4를 사용하는 방법을 익히고, 사이드 프로젝트를 진행하기.
 - 기간: 2019년 7월 ~ 2019년 12월
 - 참여자: Jaey(스터디장), 장형기, 안준모, 김경찬, 전현우 
+- 기획 그룹: [AI Robotics KR](https://www.facebook.com/groups/airoboticskr/)
 
 ## 스터디 진행 방법 / Repository 사용법:
 - OpenCV 4.1.0 과 Visual Studio Community 2019 를 사용해서 사용법을 익힙니다.
